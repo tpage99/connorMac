@@ -13,3 +13,5 @@ Progress: Made it to deploy to Netlify section (because that's 🍰)
 Got authentication working through Github OAuth. Pages still not creating and not showing up in routes and need to research.
 
 Got tripped up because initially, when following the tutorial, wasn't clear that a blog directory needed to be created in order for it to show up at all. Locally, routes showing but not on build? Must be a config file issue???
+
+[Resource] Gatsby's Markdown file tutorial: https://www.gatsbyjs.org/docs/adding-markdown-pages/
