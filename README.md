@@ -15,3 +15,5 @@ Got authentication working through Github OAuth. Pages still not creating and no
 Got tripped up because initially, when following the tutorial, wasn't clear that a blog directory needed to be created in order for it to show up at all. Locally, routes showing but not on build? Must be a config file issue???
 
 [Resource] Gatsby's Markdown file tutorial: https://www.gatsbyjs.org/docs/adding-markdown-pages/
+
+## Night 3
