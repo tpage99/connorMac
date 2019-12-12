@@ -17,3 +17,14 @@ Got tripped up because initially, when following the tutorial, wasn't clear that
 [Resource] Gatsby's Markdown file tutorial: https://www.gatsbyjs.org/docs/adding-markdown-pages/
 
 ## Night 3
+
+Page build now working from markdown files with template and `gatsby-node.js` file.
+
+## Considerations for Future Projects
+
+1. Is Netlify CMS worth using in client projects?
+
+   > It's hard to answer this question. It seems relatively basic and may indeed have all the essentials, but as far as needing something simple the site needs to build from github repository and so will need to continue to maintain even after handing off.
+   > Would work for clients that just want a blog to edit but if they want to be able to change design/colors/layout then it will not be a good fit.
+
+2.
