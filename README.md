@@ -27,4 +27,6 @@ Page build now working from markdown files with template and `gatsby-node.js` fi
    > It's hard to answer this question. It seems relatively basic and may indeed have all the essentials, but as far as needing something simple the site needs to build from github repository and so will need to continue to maintain even after handing off.
    > Would work for clients that just want a blog to edit but if they want to be able to change design/colors/layout then it will not be a good fit.
 
-2.
+2. Having difficulty wrapping head around the creation of pages, collections, etc. to get what you want
+   > It seems like it would be worthwhile to have this down as a method, but it does seem complicated from the starter
+   > Still a significant benefit for being able to utilize Gatsby and also it be static rather than a costly CMS hosted with PHP
