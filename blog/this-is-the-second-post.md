@@ -1,5 +1,5 @@
 ---
-path: second-post
+path: /blog/second-post
 date: 2019-12-12T12:31:14.761Z
 title: This is the second post
 ---
